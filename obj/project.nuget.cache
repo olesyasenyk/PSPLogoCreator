@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "sTTZcGS1YRYb3KlGlPm0by3Z3+mL+iye/IBWooBGyF0KBASqNPmEvrmkWBmSY+817z/LVOoKpNpvotpKsB4qYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\olesia.falafivka\\source\\repos\\PSPLogoCreator\\PSPLogoCreator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olesia.falafivka\\.nuget\\packages\\imageprocessor\\2.9.1\\imageprocessor.2.9.1.nupkg.sha512",
+    "C:\\Users\\olesia.falafivka\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\olesia.falafivka\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ImageProcessor 2.9.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ImageProcessor",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
